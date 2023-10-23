@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+    <meta name="viewport"
+    content="width=device-width,intial-scale=0.1">
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        .header {
+            border: 1px solid blue;
+            padding: 15px;
+            text-align: center;
+            color:5px solid #ffa500;
+            font-size: 30px;
+            fontfamily: Verdana;8j
+            background-dasharray: ;;
+        }
+        <!-- Latest compiled and minified CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Latest compiled JavaScript -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+        .menu {
+            width: 25%;
+            float:center;
+            padding: 20px;
+            border: 5px solid blue;
+            margin: 50px;
+        }
+        img {
+            width:50%;
+            height:aut;
+            align-items: center;
+        }
+        .main {
+            width:75%;l
+            float: left;
+            padding: 20px;
+            bordrer:1px solid blue;
+            font-size:30px
+        }
+        table,th,td {
+            border:1px solid blue;
+        }
+        table{
+            width:100%;
+        }
+        .footer {
+            width: 30%;
+            padding: 15px;
+
+        }
+        </style>
+        </head>
+        <body>
+            <div class="header">
+                <h1>KESIA FRED PROFILE</h1>
+            </div>
+            <div class="menu">
+                <img src="IMG_20231005_083440.jpg" width="300" height="350">
+                    <h1>Personal information</h1>
+                    <p>Sex:Male</p>
+                    <p>Age:24</p>
+                    <p>Tribe:Lugbara</p>
+                    <p>Nationality:Ugandan</p>
+                    <h1>Contact information</h1>
+                    <ul>
+                    <li>Arua(Uganda)</li>
+                    <li>Tell:0779417275</li>
+                    <li>E-mail:kesiafred00@gmail.com</li>
+                    <li>whatsapp:+256779417275</li>
+                    <li>Github</li>
+                    <li>Linkedin</li>
+                    </ul>
+                    <h1>Skills</h1>
+                    <ul>
+                        <li>Communicatin skills</li>
+                        <li>teaching skills</li>
+                    <li>Web site designing</li>
+                    <li>Software installations</li>
+                    <li>programming</li>
+                    <li>Data Analyst</li>
+                    <li>It trainings</li> 
+                    </ul>
+                    <h1>Personal goals</h1>
+                    <p>Software developer</p>
+                    <p>Programmer</p>
+                    <p>Data Analyst</p>
+                    <p>It technician</p>
+                    <p>cybersecuirity administrator</p>
+
+            </div>
+                <div class="main">
+                    <h1>KESIA FRED</h1>
+                    <h2>Personal summary</h2>
+                    <p>Incridible motivated,very innovative,focused on designing quality web sites,software installations,programming,data base analysis and good customer/new staff trainings,proven success in dealing with all the listed skills as a person and a team.</p>
+                    <h1>WORK HISTORY</h1>
+                    <h2>09/23-current:Analyst.</h2>
+                    <p>-Perform company day to day progress analysis,sales analysis</p>
+                    <p>-Staff performance analysis.</p>
+                    <h2>05/20-2/22:Junior programmer</h2>
+                    <p>Designed the company web sites,keep updated company web page.</p>
+                    <h1>EDUCATIONAL BACKGROUND.</h1>
+                  <table>
+                    <tr>
+                        <th>YEAR</th>
+                        <th>INSTITUATION</th>
+                        <th>QUALIFICAATION</th>
+                    </tr>
+                    <tr>
+                        <td>2005-2012</td>
+                        <td>ILLI PERIMARY SCHOOL</td>
+                        <td>PERIMARY LIVINING EXAMINATION</td>
+                    </tr>
+                    <tr>
+                        <td>2013-2016</td>
+                        <td>MT WATI SECONDARY SCHOOL</td>
+                        <td>UGANDA CERTIFICATE OF EDUCATION</td>
+                    </tr>
+                    <tr>
+                        <td>2019-2020</td>
+                        <td>OMBATINI SECONDARY SCHOOL</td>
+                        <td>UGNDA ADVANCED CERTIFICATE OF EDUCATION</td>
+                    </tr>
+                    <tr>
+                    <td>2021-2022</td>
+                    <td>ENNTEBE SCHOOL OF TECHNOLOGY</td>
+                    <td>DEGREE IN INFORMATION TECHNOLOGY</td>
+                    </tr>
+                  </table>
+                  <h2>HOBBIES</h2> 
+                  <ul>
+                    <li>Watching football</li>
+                    <li>playing football</li>
+                    <li>listening to music</li>
+                    <li>Story telling</li>
+                    <li>reading story books</li>
+                </ul>
+                </div>
+                <h2>MY REFREREES.</h2>
+                <h3>The following people have accepted to be my Refrerees.</h3>
+                <p>Mr Asiku jude the lc3 chairmam omugo sub county,tel: o782251107.</p>
+                <p>Mr Miriga martine deputy head teacher Mt wati secondary school tel: 0772529823.</p>
+                <p>Mr Abima Robert the deputy headteacher maracher scondary school tel: 0764109096.</p>
+                <p>I declare that all the information provided about me is true.</p>
+                <div class="footer">
+                      <h2>Links</h2>
+                    <p><b>   <a href=" Images.pdf">Github.com</a><b></p>
+                        <p><b> <a href="charicterentities">Linkedin.com</a><b></p>
+                         <p><a href="default">Facebook</a></p>
+                         <p><a href="GRID HTML.html">E-mail</a></p>
+                         <p>for privace&copyissues may apply.</p>
+                </div>
+        </body>
+</html>
+
+
